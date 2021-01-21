@@ -25,7 +25,7 @@ go to root folder and hit below commands
 pip install -r requirements.txt 
 
 # Add project env and run below command
-go to folder where whatsapp.py  and hit below commands
+go to folder where whatsapp.py exits and hit below commands
 
 python whatsapp.py
 
